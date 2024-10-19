@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Python</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Python Learning Resources</h1>
+    </header>
+    <section class="resources">
+        <article>
+            <h2>Official Python Documentation</h2>
+            <p>The official Python documentation offers tutorials and guides for all levels.</p>
+            <a href="https://docs.python.org/3/tutorial/index.html" target="_blank">Visit Official Docs</a>
+        </article>
+        <article>
+            <h2>Codecademy Python Course</h2>
+            <p>Interactive Python programming courses for beginners and advanced learners.</p>
+            <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank">Learn on Codecademy</a>
+        </article>
+        <article>
+            <h2>Real Python</h2>
+            <p>Offers tutorials and advice on practical Python programming for web development, data science, and more.</p>
+            <a href="https://realpython.com/" target="_blank">Explore Real Python</a>
+        </article>
+    </section>
+</body>
+</html>
